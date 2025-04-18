@@ -1,5 +1,13 @@
 # 2023 Tour Map
 
+## 🔗 View the Map
+
+Click the link below to open the interactive map in your browser:
+
+👉 [View the 2023 Tour Map](https://abucynski.github.io/2023-tour-map/2023_tour_map.html)
+
+---
+
 This repository hosts the interactive HTML map for the 2023 **Live and In Color Tour**.
 
 📍 The map visualizes:
@@ -7,14 +15,6 @@ This repository hosts the interactive HTML map for the 2023 **Live and In Color 
 - Venue locations, capacities, and actual performance
 - Color-coded markers based on sell-through percentage
 - Separate indicators for Spring and Fall legs of the tour
-
----
-
-## 🔗 View the Map
-
-Click the link below to open the interactive map in your browser:
-
-👉 [View the 2023 Tour Map](*insert link here*)
 
 ---
 
